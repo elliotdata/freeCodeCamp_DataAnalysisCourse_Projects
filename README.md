@@ -1,4 +1,4 @@
-## Data Analysis Certification Projects
+## freeCodeCamp Data Analysis Certification
 
 Data analysis projects completed as part of freeCodeCamp's Data Analysis with Python certification. These projects showcase my ability to analyze and visualize data, utilizing various Python libraries and techniques.
 
@@ -21,5 +21,6 @@ Data analysis projects completed as part of freeCodeCamp's Data Analysis with Py
 
 ### Certification Link:
 
-(https://www.freecodecamp.org/certification/paulelliot/data-analysis-with-python-v7). This certification validates my proficiency in data analysis and visualization using Python.
+(https://www.freecodecamp.org/certification/paulelliot/data-analysis-with-python-v7). 
+ This certification validates my proficiency in data analysis and visualization using Python.
 
